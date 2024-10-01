@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FSDTask-curd-app/static/css/main.14ee7119.css",
+    "main.js": "/FSDTask-curd-app/static/js/main.c090064f.js",
+    "static/js/453.33e41a6a.chunk.js": "/FSDTask-curd-app/static/js/453.33e41a6a.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/FSDTask-curd-app/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/FSDTask-curd-app/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/FSDTask-curd-app/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/FSDTask-curd-app/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/FSDTask-curd-app/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/FSDTask-curd-app/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/FSDTask-curd-app/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/FSDTask-curd-app/index.html",
+    "main.14ee7119.css.map": "/FSDTask-curd-app/static/css/main.14ee7119.css.map",
+    "main.c090064f.js.map": "/FSDTask-curd-app/static/js/main.c090064f.js.map",
+    "453.33e41a6a.chunk.js.map": "/FSDTask-curd-app/static/js/453.33e41a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ee7119.css",
+    "static/js/main.c090064f.js"
+  ]
+}
