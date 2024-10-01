@@ -12,13 +12,21 @@
  
   <img width="949" alt="Screenshot curd app" src="https://github.com/user-attachments/assets/53467ce5-0749-438e-ab8a-af0787551a34">
 
-<h2 align="center">Demo Video</h2>
+<h2 align="center">demonstrating CRUD (Demo Video)</h2>
+
+
+
+
+<h2 align="center">Docker deployment (Demo Video)</h2>
 
 
 
 
 
-
+| Script                           | Description               |
+| -------------                    | --------------------------|
+| docker build .                   | Build a Docker image      |
+| docker run -p 3000:3000 IMAGE ID | Run Docker image          |
 
 
 
