@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://safdarjamal.github.io/crud-app/">
-    CRUD App
+    Employee Management Software
   </a>
 </h1>
 
@@ -12,12 +12,20 @@
  
   <img width="949" alt="Screenshot curd app" src="https://github.com/user-attachments/assets/53467ce5-0749-438e-ab8a-af0787551a34">
 
-<h2 align="center">demonstrating CRUD (Demo Video)</h2>
+<h2 align="center">Demonstrating CRUD (Demo Video)</h2>
 
+
+
+
+https://github.com/user-attachments/assets/94c56096-cdf8-422f-a59e-c1330eee7242
 
 
 
 <h2 align="center">Docker deployment (Demo Video)</h2>
+
+
+
+https://github.com/user-attachments/assets/d3bab9c8-4286-4a64-8b6c-ba9738d279f2
 
 
 
