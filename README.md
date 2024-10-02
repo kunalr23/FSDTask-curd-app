@@ -5,10 +5,6 @@
 </h1>
 
 
-
-
-
-
  
   <img width="949" alt="Screenshot curd app" src="https://github.com/user-attachments/assets/53467ce5-0749-438e-ab8a-af0787551a34">
 
@@ -84,4 +80,45 @@ and then you can open http://localhost:3000 to view it in the browser.
 | npm test      | Launches the test runner in the interactive watch mode.                 |
 | npm run build | Builds the app for production to the `build` folder.                    |
 | npm run eject | This command will remove the single build dependency from your project. |
+
+
+# Building Serverless RESTful Web APIs with Cloud Functions, Firestore,  and Node Js
+
+This is a simple API that saves contact information of people. 
+
+## Requirements
+
+[NodeJS](https://nodejs.org/en/)
+
+You will need a Firebase project and firebase tools cli
+
+```
+npm install -g firebase-tools
+```
+
+## Getting Started
+
+You can follow the guide on [Medium](https://medium.com/@dalenguyen/building-a-serverless-restful-api-with-cloud-functions-firestore-and-express-f917a305d4e6) 
+
+
+ you can log in to firebase in the terminal 
+
+```
+firebase login
+```
+
+## Deploy to firebase
+
+For the first time, you have deploy the hosting and functions together
+
+```
+firebase deploy
+```
+
+After that, you just need to deploy functions only
+
+```
+firebase deploy --only functions
+```
+
 
